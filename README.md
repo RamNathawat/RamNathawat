@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ramnathawat.github.io/Portfolio-draft-2/](https://ramnathawat.github.io/Portfolio-draft-2/)
 
-- **⚙️ Languages I use daily: .html, .css, .js, .jsx, .py, .cpp, .psd, .fig**
+- **⚙️ Languages I speak: .html, .css, .js, .jsx, .py, .cpp, .psd, .fig**
 
 - 📫 How to reach me **nathawatr7@gmail.com**
 
