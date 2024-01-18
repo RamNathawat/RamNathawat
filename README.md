@@ -17,16 +17,7 @@
 
 - ⚡ Fun fact **I think i am out of addera... sorry i mean coffee**
 
-<ul>
-    <li>.html</li>
-    <li>.css</li>
-    <li>.js</li>
-    <li>.jsx</li>
-    <li>.py</li>
-    <li>.cpp</li>
-    <li>.psd</li>
-    <li>.fig</li>
-</ul>
+**<p>⚙️ Languages I use daily: .html, .css, .js, .jsx, .py, .cpp, .psd, .fig</p>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
