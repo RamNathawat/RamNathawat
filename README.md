@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://ramnathawat.github.io/Portfolio-draft-2/](https://ramnathawat.github.io/Portfolio-draft-2/)
 
-- 💬 Ask me about **Frontend Development**
+- **⚙️ Languages I use daily: .html, .css, .js, .jsx, .py, .cpp, .psd, .fig**
 
 - 📫 How to reach me **nathawatr7@gmail.com**
 
 - ⚡ Fun fact **I think i am out of addera... sorry i mean coffee**
 
-**<p>⚙️ Languages I use daily: .html, .css, .js, .jsx, .py, .cpp, .psd, .fig</p>**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
