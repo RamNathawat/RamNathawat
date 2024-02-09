@@ -9,7 +9,7 @@
 
 - I'm looking for people to collaborate on [Project Ideas](https://github.com/RamNathawat/Project-ideas-all-languages)
 
-- 👨‍💻 All of my projects are available at [https://ramnathawat.github.io/Portfolio-draft-2/](https://ramnathawat.github.io/Portfolio-draft-2/)
+- 👨‍💻 All of my projects are available on my [Portfolio website](https://ramnathawat.github.io/Portfolio/)
 
 - 💬 Ask me about **Frontend Development**
 
