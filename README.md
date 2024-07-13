@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Nathawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [LiveLingo](https://github.com/RamNathawat/LiveLingo.git) , [MoodScape](https://github.com/kalviumcommunity/Squad5_MoodScape)
+- 🔭 I’m currently working on [LiveLingo](https://github.com/RamNathawat/LiveLingo.git)
 
 - 🌱 I’m currently learning **React Js**
 
