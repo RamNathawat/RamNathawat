@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Nathawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Touchless](https://github.com/RamNathawat/Touchless)
+- 🔭 I’m currently working on [Prometheus](https://github.com/RamNathawat/Prometheus.git)
 
 - 🌱 I’m currently learning **React Js**
 
