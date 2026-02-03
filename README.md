@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Python AI projects**
 
-- I'm looking for people to collaborate on [Project Ideas](https://github.com/RamNathawat/Project-ideas-all-languages)
+- I'm looking for people to collaborate on [Nudge](https://github.com/RamNathawat/Nudge)
 
-- 👨‍💻 All of my projects are available at [https://ramnathawat.github.io/Portfolio-draft-2/](https://ramnathawat.github.io/Portfolio-draft-2/)
+- 👨‍💻 All of my projects are available at [Portfolio]((https://ramnathawat.pages.dev/))
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **nathawatr7@gmail.com**
+- 📫 How to reach me **feedmeletters@gmail.com**
 
 - ⚡ Fun fact **I think i am out of addera... sorry i mean coffee**
 
