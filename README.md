@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Nathawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [LiveLingo](https://github.com/RamNathawat/LiveLingo.git)
+- 🔭 I’m currently working on [Nudge](https://github.com/RamNathawat/Nudge))
 
 - 🌱 I’m currently learning **React Js**
 
@@ -38,6 +38,3 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramnathawat&show_icons=true&locale=en&layout=compact" alt="ramnathawat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramnathawat&" alt="ramnathawat" /></p>
