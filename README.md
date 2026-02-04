@@ -9,7 +9,7 @@
 
 - I'm looking for people to collaborate on [Nudge](https://github.com/RamNathawat/Nudge)
 
-- 👨‍💻 All of my projects are available at [Portfolio]((https://ramnathawat.pages.dev/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://ramnathawat.pages.dev/)
 
 - 💬 Ask me about **Frontend Development**
 
